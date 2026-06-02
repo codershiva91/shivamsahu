@@ -28,8 +28,12 @@
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java Programming](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Python Libraries
+![Libraries](https://img.shields.io/badge/Numpy-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Libraries](https://img.shields.io/badge/Pandas-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Libraries](https://img.shields.io/badge/Matplotlib-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Libraries](https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas)
@@ -100,20 +104,6 @@
 - 🎖 IBM Professional Certificate in Python for Data Science & AI
 - 📚 Strong foundation in Machine Learning, Data Science and Analytics
 - 🚀 Developed multiple end-to-end ML projects
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### ⚡ Fun Fact
 
